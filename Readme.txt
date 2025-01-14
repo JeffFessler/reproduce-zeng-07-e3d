@@ -1,3 +1,11 @@
+Code related to the paper
+
+Rongping Zeng, J A Fessler, James M Balter,
+"Estimating 3-D respiratory motion from orbiting views by tomographic image registration"
+IEEE Tr. Medical Imaging 26(2):153-63, Feb. 2007.
+https://doi.org/10.1109/TMI.2006.889719
+
+
 Include this directory './mfiles' into Matlab path
 as well as Matlab MIRT directories.
 
